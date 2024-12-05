@@ -25,3 +25,5 @@ List of deacons(option )
 
 weekly list (option )
 all weeks (option )
+
+[St Mary Phx App.pdf](https://github.com/user-attachments/files/18016519/St.Mary.Phx.App.pdf)
